@@ -1,6 +1,10 @@
+# error
+I am getting an API link error because the link I have used is continuously updating by it self. I don't know why.
+due to this problem, I am not able to get data through API which is not a problem from my side 
+
 # rk_news
 
-best news app
+best news app  
 
 ## Getting Started
 
